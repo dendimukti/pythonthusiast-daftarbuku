@@ -24,5 +24,6 @@ Test penggunaan git
 - Bekerja tidak pada Master, namun pada branch tersendiri
 - Mem-Push branch baru tsb (atau mem-push jika sudah ada commit)
 - Merubah kode pada branch tersebut
-- Meng-commit kode
-- Mem-push branch tersebut 
+- Meng-commit kode, dan mereview perubahan pada file terlebih dahulu
+- Mem-push branch tersebut
+ 
