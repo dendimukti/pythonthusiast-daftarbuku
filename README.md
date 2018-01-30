@@ -13,7 +13,7 @@ Test penggunaan git
 - kirim perubahan ke github dengan git push
 
 ## Menggunakan GIT dengan PyCharm
-- Pastikan menggunakan PyCharm terkini
+- Pastikan menggunakan PyCharm terkini, download di web resminya langsung
 - Membuka Project yg sudah di clone di command line
 - Merubah File
 - Mengirim file ke Github
