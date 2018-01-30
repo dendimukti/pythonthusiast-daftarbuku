@@ -18,3 +18,7 @@ Test penggunaan git
 - Mengirim file ke Github
 - Merubah di Github
 - mem-pull dari local
+
+## Kesimpulan
+- Dengan Git dan Github, Kode akan aman dari hard-disk rusak
+- Memiliki Repository Github yang public, akan menjadikan repository tersebut sebagai portofolio
