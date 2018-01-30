@@ -13,7 +13,7 @@ Test penggunaan git
 - kirim perubahan ke github dengan git push
 
 ## Menggunakan GIT dengan PyCharm
-- Pastikan menggunakan PyCharm terkini, download di webite resminya langsung
+- Pastikan menggunakan PyCharm terkini, download di webite resminya langsung, di http://jetbrains.com
 - Membuka Project yg sudah di clone di command line
 - Merubah File
 - Mengirim file ke Github
@@ -26,8 +26,8 @@ Test penggunaan git
 - Mem-Push branch baru tsb (atau mem-push jika sudah ada commit)
 - Merubah kode pada branch tersebut
 - Meng-commit kode, dan mereview perubahan pada file terlebih dahulu
-- Mem-push branch tersebut 
- 
+- Mem-push branch tersebut
+
 ## Kesimpulan
 - Dengan Git dan Github, Kode akan aman dari hard-disk rusak
 - Memiliki Repository Github yang public, akan menjadikan repository tersebut sebagai portofolio
